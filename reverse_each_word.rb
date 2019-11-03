@@ -1,5 +1,5 @@
 def reverse_each_word(string)
-  pp array
+pp string
 reversed_array = []
 array = string.split()
 pp array
